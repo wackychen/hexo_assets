@@ -1,0 +1,10 @@
+/* 鼠标样式 */
+body {
+  cursor: url(https://cdn.jsdelivr.net/gh/CcccX2017/HexoAssets/public/cursor/default.cur),
+    default;
+}
+a,
+img {
+  cursor: url(https://cdn.jsdelivr.net/gh/CcccX2017/HexoAssets/public/cursor/pointer.cur),
+    default;
+}
